@@ -12,7 +12,6 @@ https://github.com/dot0ris/madcamp_week3
 
 몰입캠프 3주차 과제 - Teachable machine을 이용한 집중도 측정 및 순위 비교 웹 제작
 
-## 조원
 
 ## 설명
 
