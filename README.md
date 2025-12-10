@@ -14,10 +14,6 @@ https://github.com/dot0ris/madcamp_week3
 
 ## 조원
 
-[김상윤](https://github.com/tryotto1)
-
-[이현호](https://github.com/dot0ris)
-
 ## 설명
 
 ### 전체 구조
